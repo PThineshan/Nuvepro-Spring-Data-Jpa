@@ -22,3 +22,9 @@
 ![](src/main/resources/static/10.png) 
 ## Order Table
 ![](src/main/resources/static/11.png) 
+# Setting Up Swagger 2 with a Spring REST API Using Springfox
+## Swagger UI url: http://localhost:8081/swagger-ui/
+![](src/main/resources/static/12.png) 
+![](src/main/resources/static/13.png) 
+![](src/main/resources/static/14.png) 
+![](src/main/resources/static/15.png) 
